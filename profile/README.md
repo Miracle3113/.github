@@ -22,10 +22,10 @@ To bridge the education gap by providing free or low-cost academic support, fost
 
 ## 🛠 Tech Stack (Planned)
 
-- Frontend: React (or preferred framework)
+- Frontend: React 
 - Backend: Node.js / Express
-- Database: MongoDB / PostgreSQL
-- Hosting: Render / Vercel / Netlify
+- Database: PostgreSQL
+- Hosting: AWS
 
 ---
 
