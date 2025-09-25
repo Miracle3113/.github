@@ -8,7 +8,7 @@ Welcome! This guide helps you contribute to this project correctly.
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone <repo-edupeerhuburl>
    cd repo-name
    ```
 
@@ -62,7 +62,7 @@ npm run build
 
 Delete your branch:
 ```bash
-git push origin --delete feature/your-feature
+gitpush origin --delete feature/your-feature
 ```
 
 Pull latest main to stay up to date:
